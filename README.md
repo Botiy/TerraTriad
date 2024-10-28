@@ -4,4 +4,4 @@
   ### The name of the file, which you have to run: 
   AirbusShipDetection.ipynb
   
-  Authorization requires a kaggle json file - in our project the Sign_in_info.txt contains the required authorization data.
+  Authorization requires a kaggle json file - in our project this file is also present.
