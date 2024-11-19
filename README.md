@@ -9,3 +9,5 @@
   ### Milestone 2 - The EfficientLoading.ipynb contains the splitting, balancing and loading of the dataset. It uses an ImageDataGenerator for augmenting the images. 
   ### The Model.ipynb is the notebook, which contains our initial model, implementing a U-net architecture. 
   ### To evaluate the results with different metrics the Evaluation.ipynb should be ran.
+  - The `Evaluation.ipynb` notebook now exclusively contains evaluation functions along with a test for these functions. These functions will be integrated into the final model and will utilize the model's output to calculate the scores.
+  
