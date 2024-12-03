@@ -10,4 +10,5 @@
   ### The Model.ipynb is the notebook, which contains our initial model, implementing a U-net architecture. 
   ### To evaluate the results with different metrics the Evaluation.ipynb should be ran.
   - The `Evaluation.ipynb` notebook now exclusively contains evaluation functions along with a test for these functions. These functions will be integrated into the final model and will utilize the model's output to calculate the scores.
-  
+  ### The Keras_solution.ipynb contains the training and the corrected U-net architecture along with the evaluation metrics.
+  - For now it was trained for 5 epochs only, to generate weights and a keras model, but we will make a longer and more precize training.
