@@ -21,4 +21,5 @@
   We did use AI sometimes (ChatGPT and the embedded Gemini in google colab), mostly to correct code parts or discover what we were doing wrong.
   
   The documentation of our project can be found in the following pdf( or between the files in this repository): [Documentation](Documentation_TerraTriad.pdf)
+  The presentation version of the project is now available in the repository and also here: [Presentation](Airbus_Ship_Detection.pptx)
  
